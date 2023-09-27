@@ -38,7 +38,7 @@
             lbl_hitPoints = new Label();
             label5 = new Label();
             cboWeapons = new ComboBox();
-            cboPotion = new ComboBox();
+            cboPotions = new ComboBox();
             btnUseWeapon = new Button();
             btnUsePotion = new Button();
             btnNorth = new Button();
@@ -138,13 +138,13 @@
             cboWeapons.Size = new Size(121, 23);
             cboWeapons.TabIndex = 9;
             // 
-            // cboPotion
+            // cboPotions
             // 
-            cboPotion.FormattingEnabled = true;
-            cboPotion.Location = new Point(369, 593);
-            cboPotion.Name = "cboPotion";
-            cboPotion.Size = new Size(121, 23);
-            cboPotion.TabIndex = 10;
+            cboPotions.FormattingEnabled = true;
+            cboPotions.Location = new Point(369, 593);
+            cboPotions.Name = "cboPotions";
+            cboPotions.Size = new Size(121, 23);
+            cboPotions.TabIndex = 10;
             // 
             // btnUseWeapon
             // 
@@ -172,6 +172,7 @@
             btnNorth.TabIndex = 13;
             btnNorth.Text = "North";
             btnNorth.UseVisualStyleBackColor = true;
+            btnNorth.Click += btnNorth_Click;
             // 
             // buttonbtnEast1
             // 
@@ -181,6 +182,7 @@
             buttonbtnEast1.TabIndex = 14;
             buttonbtnEast1.Text = "East";
             buttonbtnEast1.UseVisualStyleBackColor = true;
+            buttonbtnEast1.Click += buttonbtnEast1_Click;
             // 
             // btnWest
             // 
@@ -190,6 +192,7 @@
             btnWest.TabIndex = 15;
             btnWest.Text = "West";
             btnWest.UseVisualStyleBackColor = true;
+            btnWest.Click += btnWest_Click;
             // 
             // btnSouth
             // 
@@ -199,6 +202,7 @@
             btnSouth.TabIndex = 16;
             btnSouth.Text = "South";
             btnSouth.UseVisualStyleBackColor = true;
+            btnSouth.Click += btnSouth_Click;
             // 
             // rtbLocation
             // 
@@ -268,7 +272,7 @@
             Controls.Add(btnNorth);
             Controls.Add(btnUsePotion);
             Controls.Add(btnUseWeapon);
-            Controls.Add(cboPotion);
+            Controls.Add(cboPotions);
             Controls.Add(cboWeapons);
             Controls.Add(label5);
             Controls.Add(lbl_Level);
@@ -299,7 +303,7 @@
         private Label lbl_hitPoints;
         private Label label5;
         private ComboBox cboWeapons;
-        private ComboBox cboPotion;
+        private ComboBox cboPotions;
         private Button btnUseWeapon;
         private Button btnUsePotion;
         private Button btnNorth;

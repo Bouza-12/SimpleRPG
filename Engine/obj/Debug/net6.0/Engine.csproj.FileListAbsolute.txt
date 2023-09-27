@@ -10,3 +10,14 @@ D:\Documents\Projects\SimpleRPG\Engine\obj\Debug\net6.0\Engine.dll
 D:\Documents\Projects\SimpleRPG\Engine\obj\Debug\net6.0\refint\Engine.dll
 D:\Documents\Projects\SimpleRPG\Engine\obj\Debug\net6.0\Engine.pdb
 D:\Documents\Projects\SimpleRPG\Engine\obj\Debug\net6.0\ref\Engine.dll
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\bin\Debug\net6.0\Engine.deps.json
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\bin\Debug\net6.0\Engine.dll
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\bin\Debug\net6.0\Engine.pdb
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\obj\Debug\net6.0\Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\obj\Debug\net6.0\Engine.AssemblyInfoInputs.cache
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\obj\Debug\net6.0\Engine.AssemblyInfo.cs
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\obj\Debug\net6.0\Engine.csproj.CoreCompileInputs.cache
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\obj\Debug\net6.0\Engine.dll
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\obj\Debug\net6.0\refint\Engine.dll
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\obj\Debug\net6.0\Engine.pdb
+C:\Users\bouza\OneDrive\Documentos\Proyectos\c#\SimpleRPG\Engine\obj\Debug\net6.0\ref\Engine.dll
